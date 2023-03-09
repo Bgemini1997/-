@@ -130,4 +130,4 @@ help(Pytorch.3.a)
 
 
 
-**更多内容请关注我的博客：[xieyong.cc](https://www.xieyong.cc/)**
+**更多内容请关注我的博客：[bgemini.com](https://bgemini.com/)**
